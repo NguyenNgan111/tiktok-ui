@@ -1,3 +1,6 @@
+// import clsx from "clsx";
+import classNames from "classnames/bind";
+import styles from "./Search.module.scss";
 function Search() {
   return (
     <div>
